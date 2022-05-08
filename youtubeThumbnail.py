@@ -15,3 +15,9 @@ if url!='0':
     print("ID: " + id)
     img="http://i3.ytimg.com/vi/"+id+"/maxresdefault.jpg"
     webbrowser.open(img)
+
+
+## Hola
+
+def hola():
+    print("Hola")
